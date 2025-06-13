@@ -1,12 +1,12 @@
 # I Connect Humans – HR Consulting Firm Website
 
-This project involves the end-to-end design and development of a professional website for I Connect Humans, a distinguished HR consulting firm headquartered in New Delhi, India. The platform has been crafted to embody their modern, people-centric philosophy while effectively showcasing their service offerings, organizational values, and leadership vision.
+This project involves the end-to-end design and development of a professional website for I Connect Humans, a distinguished HR consulting firm headquartered in New Delhi, India. As the sole designer and developer, I crafted this platform to embody their modern, people-centric philosophy while effectively showcasing their service offerings, organizational values, and leadership vision.
 
-> 🚨 _Note: This is a **portfolio showcase only**. The source code is private and client-owned._
+> 🚨 _Note: This is a **Portfolio showcase only**. The source code is private and client-owned._
 
 ## Live Website 
 
-[Visit I Connect Humans](https://iconnecthuman.onrender.com/)
+[Visit I Connect Humans](https://i-connect-humans.vercel.app)
 
 ## Project Overview
 
@@ -22,8 +22,9 @@ This website serves as their official digital presence, focusing on clarity, pro
 
 ### Key Responsibilities
 
-As the sole developer, I was responsible for:
-- UI/UX planning and design alignment with brand guidelines
+As the sole designer and developer, I was responsible for:
+- Complete UI/UX design and implementation
+- Brand identity and visual design
 - Full-stack development using React.js
 - Ensuring cross-browser compatibility and responsiveness
 - Implementing smooth animations and transitions
@@ -57,7 +58,7 @@ As the sole developer, I was responsible for:
 | Styling | CSS Modules, Custom CSS |
 | Animations | CSS Animations, React Spring |
 | Version Control | Git, GitHub |
-| Deployment | Render |
+| Deployment | Vercel |
 | Design Tools | CorelDRAW, Adobe XD |
 | Performance | Lighthouse, Web Vitals |
 
@@ -101,7 +102,7 @@ BTech CSE, Manipal University Jaipur
 Full Stack Developer
 
 ### Connect With Me
-- [Portfolio](https://harshit-portfolio-o1pe-git-main-harshit-rastogis-projects.vercel.app)
+- [Portfolio Website](https://harshit-portfolio-o1pe-git-main-harshit-rastogis-projects.vercel.app)
 - [LinkedIn](https://linkedin.com/in/harshit-rastogi-2003)
 - [Email](mailto:harshitrastogi0206@gmail.com)
 
@@ -109,7 +110,7 @@ Full Stack Developer
 
 This repository is intended solely as a **Portfolio showcase**.  
 The source code belongs to **I Connect Humans** and is **not open source**.  
-For similar projects or freelance collaboration, feel free to [contact me](mailto:harshitrastogi0206@gmail.com).
+For similar projects or freelance collaboration, feel free to [Reach me](mailto:harshitrastogi0206@gmail.com).
 
 ---
 
