@@ -6,7 +6,7 @@ This project involves the end-to-end design and development of a professional we
 
 ## Live Website 
 
-[Visit I Connect Humans](https://i-connect-humans.vercel.app)
+[iconnecthuman.in](https://iconnecthuman.in/)
 
 ## Project Overview
 
